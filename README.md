@@ -4,7 +4,7 @@
 
 Olá! Me chamo Gilvan Junior, tenho 23 anos e sou natural de Aracaju-SE. Concluí o ensino médio no Colégio Arquidiocesano e, atualmente, curso Sistemas de Informação na Universidade Tiradentes (UNIT).
 
-Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolução. Atualmente, estou trilhando meu caminho para me tornar um desenvolvedor back-end, focado em construir soluções eficientes e bem estruturadas.
+Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolução. Atualmente, trabalho como Desenvolvedor Back-End para o Banco do Estado de Sergipe - BANESE.
 
 <p align="left">
     <a href="https://www.instagram.com/juniormoore_/" target="_blank">
