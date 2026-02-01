@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento WEB`**
 
-Olá! Me chamo Gilvan Junior, tenho 23 anos e sou natural de Aracaju-SE. Concluí o ensino médio no Colégio Arquidiocesano e, atualmente, curso Sistemas de Informação na Universidade Tiradentes (UNIT).
+Olá! Me chamo Gilvan Junior, tenho 24 anos e sou natural de Aracaju-SE. Concluí o ensino médio no Colégio Arquidiocesano e, atualmente, curso Sistemas de Informação na Universidade Tiradentes (UNIT).
 
 Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolução. Atualmente, trabalho como Desenvolvedor Back-End para o Banco do Estado de Sergipe - BANESE.
 
@@ -59,14 +59,6 @@ Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolu
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -80,6 +72,14 @@ Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -113,17 +113,14 @@ Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolu
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gilvanjunior12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
-    align="left" 
     alt="GitHub Top Langs" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvanjunior12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
