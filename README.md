@@ -72,12 +72,13 @@ Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolu
 ### 📊 Estatísticas
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=gilvanjunior12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=gilvanjunior12&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400&v=1" 
   />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvanjunior12&theme=tokyonight&layout=compact"
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvanjunior12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400&v=1" 
   />
 </p>
+
