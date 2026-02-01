@@ -22,19 +22,8 @@
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="mailto:gilvan.mourajr@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-  </p>
-
-  <p align="center">
-    <img 
-      alt="Views" 
-      src="https://komarev.com/ghpvc/?username=gilvanjunior12&label=views&color=gray&style=for-the-badge" 
-    />
-    <img 
-      src="https://custom-icon-badges.demolab.com/github/stars/gilvanjunior12?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
-      alt="Estrelas no GitHub"
-    />
   </p>
 
 </div>
