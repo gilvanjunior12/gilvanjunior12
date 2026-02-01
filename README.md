@@ -1,61 +1,47 @@
-# 👨‍💻 Gilvan Junior
+<div align="center">
 
-**`Estudante de Desenvolvimento WEB`**
-
-Olá! Me chamo Gilvan Junior, tenho 23 anos e sou natural de Aracaju-SE. Concluí o ensino médio no Colégio Arquidiocesano e, atualmente, curso Sistemas de Informação na Universidade Tiradentes (UNIT).
-
-Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolução. Atualmente, trabalho como Desenvolvedor Back-End para o Banco do Estado de Sergipe - BANESE.
-
-<p align="left">
-    <a href="https://www.instagram.com/juniormoore_/" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/gilvanjunior12" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <img 
-        alt="Discord"
-        title="jotaerre12"
-        src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
-    />
-    <a href="mailto:gilvan.mourajr@hotmail.com">
-        <img 
-            alt="Outlook"
-            title="Enviar e-mail"
-            src="https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
-        />
-    </a>
-</p>
-
-<br>
-
-<p align="left">
   <a href="https://github.com/gilvanjunior12">
+    <img 
+      src="https://user-images.githubusercontent.com/46990666/163013897-4a0b22a6-2c1b-4395-9730-84c68832a82d.gif" 
+      alt="Olá, eu sou Gilvan Junior" 
+      width="50px"
+    />
+  </a>
+
+  # Olá! Eu sou Gilvan Junior 👋
+
+  > Tenho 24 anos e sou estudante de **Sistemas de Informação** na **Universidade Tiradentes (UNIT)**, natural de Aracaju-SE.  
+  > Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolução.  
+  > Atualmente, trabalho como **Desenvolvedor Back-End** no **Banco do Estado de Sergipe (BANESE)**.
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/gilvanjunior12">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/juniormoore_/">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:gilvan.mourajr@hotmail.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    </a>
+  </p>
+
+  <p align="center">
     <img 
       alt="Views" 
       src="https://komarev.com/ghpvc/?username=gilvanjunior12&label=views&color=gray&style=for-the-badge" 
     />
-  </a>
-  <a href="https://github.com/gilvanjunior12?tab=stars">
     <img 
       src="https://custom-icon-badges.demolab.com/github/stars/gilvanjunior12?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
       alt="Estrelas no GitHub"
-      title="Estrelas recebidas no GitHub"
     />
-  </a>
-</p>
+  </p>
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
@@ -69,7 +55,7 @@ Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolu
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p align="center">
   <img 
@@ -81,4 +67,3 @@ Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolu
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvanjunior12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400&v=1" 
   />
 </p>
-
