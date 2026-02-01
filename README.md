@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento WEB`**
 
-Olá! Me chamo Gilvan Junior, tenho 24 anos e sou natural de Aracaju-SE. Concluí o ensino médio no Colégio Arquidiocesano e, atualmente, curso Sistemas de Informação na Universidade Tiradentes (UNIT).
+Olá! Me chamo Gilvan Junior, tenho 23 anos e sou natural de Aracaju-SE. Concluí o ensino médio no Colégio Arquidiocesano e, atualmente, curso Sistemas de Informação na Universidade Tiradentes (UNIT).
 
 Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolução. Atualmente, trabalho como Desenvolvedor Back-End para o Banco do Estado de Sergipe - BANESE.
 
@@ -57,54 +57,12 @@ Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolu
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
 <br/>
 <br/>
@@ -114,15 +72,12 @@ Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolu
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=gilvanjunior12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=gilvanjunior12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
-
-  <img 
-    alt="GitHub Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvanjunior12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvanjunior12&theme=tokyonight&layout=compact"
   />
 </p>
